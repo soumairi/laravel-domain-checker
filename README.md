@@ -4,6 +4,8 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/soumairi/domain-checker?style=for-the-badge)](https://packagist.org/packages/soumairi/domain-checker)
 [![Software License](https://img.shields.io/github/license/soumairi/laravel-domain-checker?style=for-the-badge)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/soumairi/domain-checker?style=for-the-badge)](https://packagist.org/packages/soumairi/domain-checker)
+[![Build Status](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/build.png?b=main)](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/)
+[![Quality Score](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/)
 
 ## ABOUT
 
@@ -17,7 +19,7 @@ You can install the package via composer:
 $ composer require soumairi/domain-checker
 ```
 
-Next, you must install the service provider:
+Next, you must register the service provider:
 
 ```php
 // config/app.php

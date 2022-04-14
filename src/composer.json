@@ -1,0 +1,16 @@
+{
+    "name": "soumairi/domain-checker",
+    "description": "domain-checker is a package to check domains for an extra security layer",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Soumairi\\DomainChecker\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2 | ^7.3 | ^8.0",
+        "laravel/framework": ">= 6.0"
+    }
+}

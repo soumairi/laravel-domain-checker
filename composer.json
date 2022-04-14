@@ -3,6 +3,16 @@
     "description": "domain-checker is a package to check domains for an extra security layer",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Mouhssine Soumairi",
+            "email": "soumairi@gmail.com"
+        },
+        {
+            "name": "Hamza Ouhamou",
+            "email": "hamzaouhamou@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {

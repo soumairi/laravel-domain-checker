@@ -2,12 +2,10 @@
     "name": "soumairi/domain-checker",
     "description": "domain-checker is a package to check domains for an extra security layer",
     "keywords": [
-        "soumairi",
         "laravel",
         "framework",
         "domain checker",
-        "allowed domains",
-        "ouhamou"
+        "allowed domains"
     ],
     "type": "library",
     "license": "MIT",

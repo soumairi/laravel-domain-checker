@@ -64,3 +64,31 @@ return [
     'error_message' => 'This host is not allowed'
 ];
 ```
+
+
+## Usage
+
+To authorize a domain, it must be added in the `allowed_domains` array :
+
+```php
+//config/domain-checker.php
+'allowed_domains' => [
+        'localhost',
+        '127.0.0.1',
+        '...'
+    ],
+```
+
+by default `localhost` and `127.0.0.1` are allowed.
+
+you can customize error message on the `error_message`.
+
+
+## Credits
+
+- [Mouhssine Soumairi](https://github.com/soumairi)
+- [Hamza Ouhamou](https://github.com/Ouhamou)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.

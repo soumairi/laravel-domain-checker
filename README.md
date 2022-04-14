@@ -88,6 +88,7 @@ you can customize error message on the `error_message`.
 
 - [Mouhssine Soumairi](https://github.com/soumairi)
 - [Hamza Ouhamou](https://github.com/Ouhamou)
+- [All Contributors](../../contributors)
 
 ## License
 

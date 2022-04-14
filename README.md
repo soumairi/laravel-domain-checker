@@ -20,16 +20,6 @@ You can install the package via composer:
 $ composer require soumairi/domain-checker
 ```
 
-Next, you must register the service provider:
-
-```php
-// config/app.php
-'providers' => [
-    ...
-   Soumairi\DomainChecker\DomainCheckerServiceProvider::class
-];
-```
-
 Next, the `\Soumairi\DomainChecker\Http\Middleware\DomainCheckerMiddleware::class`-middleware must be registered in the kernel:
 
 ```php

@@ -1,12 +1,12 @@
 # Laravel Domain Checker 
 ## A LARAVEL package to authorize allowed domains
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/soumairi/domain-checker?style=flat)](https://packagist.org/packages/soumairi/domain-checker)
-[![Software License](https://img.shields.io/github/license/soumairi/laravel-domain-checker?style=flat)](LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/soumairi/domain-checker?style=flat)](https://packagist.org/packages/soumairi/domain-checker)
-[![Build Status](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/build.png?b=main)](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/build-status/main)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/?branch=main)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/soumairi/domain-checker?style=flat-square)](https://packagist.org/packages/soumairi/domain-checker)
+[![Software License](https://img.shields.io/github/license/soumairi/laravel-domain-checker?style=flat-square)](LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/soumairi/domain-checker?style=flat-square)](https://packagist.org/packages/soumairi/domain-checker)
+[![Build Status](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/build.png?b=main&style=flat-square)](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/build-status/main)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/quality-score.png?b=main&style=flat-square)](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/?branch=main)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/soumairi/laravel-domain-checker/badges/code-intelligence.svg?b=main&style=flat-square)](https://scrutinizer-ci.com/code-intelligence)
 
 ## ABOUT
 
